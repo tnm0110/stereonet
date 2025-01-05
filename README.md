@@ -7,7 +7,7 @@ Feel free to reach out if you encounter any issues or have questions.
 
 Author:
 
-Md Mohimanul Islam
-University of Missouri
+Md Mohimanul Islam | 
+University of Missouri | 
 Last Modified:
 02/02/2022
